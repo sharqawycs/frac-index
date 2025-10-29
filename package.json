@@ -1,0 +1,7 @@
+{
+  "name": "frac-index",
+  "version": "0.0.0",
+  "description": "Fractional indexing algorithm for ordered lists and collaborative editors",
+  "main": "index.js",
+  "license": "MIT"
+}
